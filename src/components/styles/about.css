@@ -1,0 +1,32 @@
+.main_container .about {
+    display: grid;
+    grid-template-columns: auto auto; 
+}
+.about .main-left{
+    margin-left: 10%;
+}
+.about .main-right{
+    margin-left: 10%;
+    margin-right: 10%;
+    
+}
+.about .main-right h1{
+    margin-top: 10%;
+    font-weight: 500;
+    font-size: 50px;
+}
+.about .main-right p{
+    margin-top: 2%;
+}
+.about .main-right button{
+    border: 1px solid black;
+    width: 150px;
+    height: 40px;
+    margin-top: 5%;
+}
+
+
+
+
+
+
